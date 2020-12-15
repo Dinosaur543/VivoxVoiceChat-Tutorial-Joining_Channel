@@ -1,2 +1,3 @@
-# Vivox-Tutorial-Logging_In
+# Vivox-Tutorial-Joining_Channel
  
+2nd video in the series
